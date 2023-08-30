@@ -133,3 +133,7 @@ Após este comando:
 
 - Arquivo com a nova versão será gerado em dist/bank-account-validator-MAJOR.MINOR.PATCH.min.js
 - A nova versão ficará registrada no package.json no campo "version".
+  
+### Prints do Projeto
+<a href="https://ibb.co/47p7fYf"><img src="https://i.ibb.co/rmHmtct/Print-01-App-Codigo-Banco.jpg" alt="Print-01-App-Codigo-Banco" border="0"></a>
+<a href="https://ibb.co/NrLLTkC"><img src="https://i.ibb.co/f9CCDKF/Print-02-App-Codigo-Banco.jpg" alt="Print-02-App-Codigo-Banco" border="0"></a>
