@@ -135,5 +135,5 @@ Após este comando:
 - A nova versão ficará registrada no package.json no campo "version".
   
 ### Prints do Projeto
-<a href="https://ibb.co/47p7fYf"><img src="https://i.ibb.co/rmHmtct/Print-01-App-Codigo-Banco.jpg" alt="Print-01-App-Codigo-Banco" border="0"></a>
-<a href="https://ibb.co/NrLLTkC"><img src="https://i.ibb.co/f9CCDKF/Print-02-App-Codigo-Banco.jpg" alt="Print-02-App-Codigo-Banco" border="0"></a>
+<a href="https://ibb.co/7j4D5sb"><img src="https://i.ibb.co/S5rg8FJ/Print-01-App-Codigo-Banco.jpg" alt="Print-01-App-Codigo-Banco" border="0"></a>
+<a href="https://ibb.co/gFDqmgV"><img src="https://i.ibb.co/wrKGB6s/Print-02-App-Codigo-Banco.jpg" alt="Print-02-App-Codigo-Banco" border="0"></a>
